@@ -24,7 +24,7 @@ Encore
      * and one CSS file (e.g. app.css) if your JavaScript imports CSS.
      */
     .addEntry('app', './assets/js/app.js')
-    .addStyleEntry('app', './assets/css/app.css')
+    .addStyleEntry('tailwind', './assets/css/app.css')
 
     // enable post css loader
     .enablePostCssLoader((options) => {
