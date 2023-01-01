@@ -1,9 +1,9 @@
 {
     "devDependencies": {
-        "@symfony/webpack-encore": "^0.30.2",
+        "@symfony/webpack-encore": "^4.2.0",
         "autoprefixer": "^9.8.4",
         "core-js": "^3.0.0",
-        "postcss-loader": "^3.0.0",
+        "postcss-loader": "^7.0.2",
         "regenerator-runtime": "^0.13.2",
         "tailwindcss": "^1.4.6",
         "webpack-notifier": "^1.6.0"
